@@ -1,25 +1,25 @@
-# SpringBoot-RabbitMQ-JPA-PostgreSQL
+# 🚀 SpringBoot-RabbitMQ-JPA-PostgreSQL
 
 ## Linguagem de Programação
-- Java 21
+- 📚 Java 21
 
 ## Gerenciamento de Dependências
-- Maven
+- 🛠️ Maven
 
 ## Frameworks e Bibliotecas
-- Spring Boot
-- Spring Web
-- Spring Data JPA
-- Spring Validation
-- Spring AMQP
-- Spring Mail
+- 🌱 Spring Boot
+- 🌐 Spring Web
+- 🛢️ Spring Data JPA
+- ✅ Spring Validation
+- 🐰 Spring AMQP
+- 📧 Spring Mail
 
 ## Banco de Dados
-- PostgreSQL
+- 🗄️ PostgreSQL
 
 ## Mensageria
-- RabbitMQ
-- CloudAMQP
+- 📨 RabbitMQ
+- ☁️ CloudAMQP
 
 ## Serviço de Email
-- SMTP Gmail
+- 📬 SMTP Gmail
