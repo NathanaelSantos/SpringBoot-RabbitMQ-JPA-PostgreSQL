@@ -51,3 +51,6 @@
 
 https://github.com/NathanaelSantos/SpringBoot-RabbitMQ-JPA-PostgreSQL/assets/45519156/e993c128-7a9b-4e1b-9fa9-bc376567c7df
 
+![Screenshot 2024-05-05 005022](https://github.com/NathanaelSantos/SpringBoot-RabbitMQ-JPA-PostgreSQL/assets/45519156/7020e772-60e5-4fdb-b6a6-f6e13b0e2090)
+
+
