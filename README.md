@@ -23,3 +23,7 @@
 
 ## Serviço de Email
 - 📬 SMTP Gmail
+
+## Imgs
+
+![save_post_ms](https://github.com/NathanaelSantos/SpringBoot-RabbitMQ-JPA-PostgreSQL/assets/45519156/eb1a4c4c-42f2-46ad-9a67-686d4695adc5)
